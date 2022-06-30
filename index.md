@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+# Hiyo!这里是HiyoTeam。
+## 团队简介
 
-You can use the [editor on GitHub](https://github.com/Hiyo-Team/team/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Hiyo-Team/team/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 团队成员简介
+#### ee
+  hi yo！这里纸片君ee（PAPEREE），性别不重要，年龄不重要，是不是人不重要。普通的准高一学生狗，擅长的活是设计/写作/计算机和研究RM/HTML/CSS/Python，擅长的科目是物理/化学/生物（理综），喜欢的事是写eebot和个人主页，喜欢的游戏是Minecraft/Manyland/Phigros（沙盒/音游）。是个网络与现实反差很大的社恐（也是路痴），患有严重强迫症和拖延症，作业不到最后一刻不写。专业匿名聊天室和有趣网站收集人员，浪迹于互联网上每个角落。抗压能力10级。欢迎来hack.chat或XChat找我聊天。
+#### QiuLingYan秋凌烟
+  Hiyo！这里QiuLingYan秋凌烟，性别不重要，年龄不重要，是不是人不重要。一位普通的准初一学生狗，爱好写作/计算机，研究黑客攻防技术以及Python。本人爱好拖延，作业不到最后一刻不写，浪迹于互联网上每个角落，抗压能力10^3级。欢迎来hack.chat或XChat以及Tchat找我聊天！
