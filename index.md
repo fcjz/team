@@ -5,7 +5,7 @@
 
 
 ### 团队成员简介
-#### 纸片君ee
+#### [纸片君ee](https://paperee.tk/)
 - [hobbies]
 设计/写作/计算机
 RM/HTML/CSS/Python
@@ -20,7 +20,7 @@ Minecraft/Manyland/Phigros（沙盒/音游）
 抗压能力10级。
 欢迎来hack.chat或XChat找我聊天。
 
-#### QiuLingYan秋凌烟
+#### [QiuLingYan秋凌烟](https://qiu-lingyan.github.io/qiuly.github.io/)
  Hiyo！这里QiuLingYan秋凌烟，性别不重要，年龄不重要，是不是人不重要。一位普通的准初一学生狗，爱好写作/计算机，研究黑客攻防技术以及Python。本人爱好拖延，作业不到最后一刻不写，浪迹于互联网上每个角落，抗压能力10^3级。欢迎来hack.chat或XChat以及Tchat找我聊天！！
 #### 4n0n4me
 hi yòóôõöøōŏőơǒǫǭǿȍȏȫȭȯȱṍṏṑṓọỏốồổỗộớờởỡợℴꞝ
