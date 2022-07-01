@@ -6,7 +6,7 @@
 
 ### 团队成员简介
 #### [纸片君ee](https://paperee.tk/)
-- [hobbies]
+- [Hobbies]
 设计/写作/计算机
 RM/HTML/CSS/Python
 物理/化学/生物（理综）
